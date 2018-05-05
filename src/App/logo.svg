@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 471 558"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.2 (unknown)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="680"
+     inkscape:window-height="742"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="0.42293907"
+     inkscape:cx="-69.508475"
+     inkscape:cy="279"
+     inkscape:window-x="680"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#0002df;}</style>
+  </defs>
+  <title
+     id="title6">Asset 116</title>
+  <g
+     id="Layer_2"
+     data-name="Layer 2"
+     style="fill:#ffffff">
+    <g
+       id="Layer_1-2"
+       data-name="Layer 1"
+       style="fill:#ffffff">
+      <path
+         class="cls-1"
+         d="M32.28,378.36q21-9.28,47.2-9.28a115.18,115.18,0,0,1,35.68,5.44,96.76,96.76,0,0,1,30.08,15.84,85.68,85.68,0,0,1,21.92,25.76q8.64,15.36,10.88,35.2H129.4a41.08,41.08,0,0,0-5.76-15.84,50.63,50.63,0,0,0-11.2-12.64,52.44,52.44,0,0,0-33-11.52q-17,0-28.8,6.56a54.36,54.36,0,0,0-19.2,17.6A77.07,77.07,0,0,0,20.76,460.6a125.07,125.07,0,0,0-3.36,29.12,116.32,116.32,0,0,0,3.36,28A75.54,75.54,0,0,0,31.48,542.2,54.45,54.45,0,0,0,47.9,558h60.83a41,41,0,0,0,6.75-5.88q13-14.08,15.84-37.12H180A116.22,116.22,0,0,1,170,553.72c-.68,1.46-1.39,2.88-2.12,4.28H471V41.76H403V228H352.72V41.76H284.24V0H49.32V228H0V400.66A101.66,101.66,0,0,1,32.28,378.36Z"
+         id="path8"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>
