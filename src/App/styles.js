@@ -7,7 +7,7 @@ export const App = styled.div`
 
 export const Logo = styled.img.attrs({
   src: logo,
-  alt: 'logo'
+  alt: 'logo',
 })`
   height: 80px;
   animation: App-logo-animation infinite 2.5s ease;
@@ -16,10 +16,10 @@ export const Logo = styled.img.attrs({
       transform: scale(1);
     }
     50% {
-        transform: scale(1.1);
+      transform: scale(1.1);
     }
     100% {
-        transform: scale(1);
+      transform: scale(1);
     }
   }
 `

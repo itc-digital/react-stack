@@ -1,0 +1,17 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "semi": ["error", "never"],
+    "react/jsx-filename-extension": ["error", { "extensions": [".js"] }],
+    "indent": ["error", 2],
+    "react/prop-types": "off"
+  },
+  "env": { "browser": true },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "paths": ["./src"]
+      }
+    }
+  }
+}
