@@ -1,5 +1,9 @@
 {
   "extends": "airbnb",
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaVersion": 8
+  },
   "rules": {
     "import/prefer-default-export": "off",
     "semi": ["error", "never"],
@@ -15,7 +19,7 @@
       }
     ]
   },
-  "env": { "browser": true },
+  "env": { "browser": true, "es6": true },
   "settings": {
     "import/resolver": {
       "node": {
