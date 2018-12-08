@@ -6,6 +6,7 @@
 
 * create-react-app
 * styled-components
+* react-router
 
 ## Инструменты
 
